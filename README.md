@@ -14,7 +14,7 @@ Este projeto é uma landing page baseada no jogo **Bloons TD 6**, desenvolvido p
 - **Git & GitHub**: Controle de versão e hospedagem do projeto.
 
 ## Captura de Tela
-![Captura de Tela](link-para-a-imagem-no-repositorio)
+![Captura de Tela](/images/screenshot.png)
 
 ## Como Usar
 1. Clone o repositório:
