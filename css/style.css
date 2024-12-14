@@ -61,7 +61,7 @@ header{
     height: 60rem;
 }
 #background-logo{
-    background-image: url('/images/imagem-introducao.png');
+    background-image: url('../images/imagem-introducao.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
